@@ -44,7 +44,9 @@ int main()
     fix123 b = 1.267401;
     fix123 c = -0.159155;
 
-
+    fix123 delta = b * b- 4 * a * c;
+    std::cout << "\n Delta:" << delta << std::endl;
+    
     double x;   //unsigned, 24 bity
     fix123 x_fix;
 
