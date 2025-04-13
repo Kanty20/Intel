@@ -16,9 +16,9 @@ Uważam, że algorytm jest dopasowany do do implementacji hardware, ponieważ
   ![image](https://github.com/user-attachments/assets/b4b80146-b63f-4c85-918c-937bc8f7f6ad)
   
 Powyżej jest fotografia przykładowego rozwiązania otrzymanego z QuadraTb
-y_dbl -> mój wynik (y_model[x])
-y_ref -> wynik wzorcowy (f_ref(x))
-y_err -> porównanie |y_dbl - y_ref| 
+- y_dbl -> mój wynik (y_model[x])
+- y_ref -> wynik wzorcowy (f_ref(x))
+- y_err -> porównanie |y_dbl - y_ref| 
 Sprawdzono uzyskane wyniki i mieściły się ode w założonych y_err <5.25e-6.
 
 ![image](https://github.com/user-attachments/assets/ccab1f76-2e91-4cdb-81f6-8c00bc4669c6)
