@@ -1,0 +1,13 @@
+octave:13> err = y_ref - y_dbl;
+error: 'y_ref' undefined near line 1, column 1
+octave:14> err y_ref - y_dbl;
+error: 'err' undefined near line 1, column 1
+octave:15> octave approx.m
+error: 'octave' undefined near line 1, column 1
+octave:16> who
+Variables visible from the current scope:
+
+A        A_I      B        B_I      C        C_I      K        a        ans      b_q      c_q      en_plot  k        x
+A_F      A_W      B_F      B_W      C_F      C_W      N        a_q      b        c        coeffs   i        n
+
+octave:17> quit
