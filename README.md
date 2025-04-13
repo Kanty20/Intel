@@ -3,7 +3,7 @@
 I attached two of five tasks and if you don't mind, I will try to make another one.
 
 
-##Zadanie 2
+#Zadanie 2
 5pkt.
 Uważam, że algorytm jest dopasowany do do implementacji hardware, ponieważ
 - mam tablicę LUT ze współczynnikami a, b, c bez wymaganych do tego ekstra obliczeń,
@@ -12,8 +12,8 @@ Uważam, że algorytm jest dopasowany do do implementacji hardware, ponieważ
 - pojawiaja się operację + i * co będzie nietrudne do zaimplementowania,
 - w "approxFixed" w uadra.cpp nie ma pętli, a jest to docelowy algorytm więc nie będzie kłopotów z przeniesieniem na fpga. Nie są to pętle tylko warunki
 
-2pkt.
   ![image](https://github.com/user-attachments/assets/b4b80146-b63f-4c85-918c-937bc8f7f6ad)
+#2pkt.
 Powyżej jest fotografia przykładowego rozwiązania otrzymanego z QuadraTb
 y_dbl -> mój wynik (y_model[x])
 y_ref -> wynik wzorcowy (f_ref(x))
