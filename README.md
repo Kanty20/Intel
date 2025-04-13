@@ -3,7 +3,7 @@
 I attached two of five tasks and if you don't mind, I will try to make another one.
 
 
-## Zadanie 2
+## C++
 # 5pkt.
 Uważam, że algorytm jest dopasowany do do implementacji hardware, ponieważ
 - mam tablicę LUT ze współczynnikami a, b, c bez wymaganych do tego ekstra obliczeń,
