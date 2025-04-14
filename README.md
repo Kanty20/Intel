@@ -19,3 +19,6 @@ Sprawdzono uzyskane wyniki i mieściły się ode w założonych y_err <5.25e-6.
 ![image](https://github.com/user-attachments/assets/ccab1f76-2e91-4cdb-81f6-8c00bc4669c6)
 
 ps- zmieniłam współczynnik a żeby był na poziomie b, jednak wartości podskoczyły do 3.00e-6. Jest to zgodne z założeniami, jednak im większe y_err tym mniej przybliża rzeczywistą wartość funkcji, czyli ma mniejszą dokładność. W takiej sytuacji należy się zastanowić co jest kluczowe dla projektu.
+
+# Quartus Prime
+Dodając plik z Quartusa pojawiały mi się błędy przy dodawaniu na githuba, dlatego też wrzuciłam tylko pliki, bez całego projektu
